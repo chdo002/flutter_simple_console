@@ -22,7 +22,7 @@ Add this to your package's `pubspec.yaml` file:
 ```yaml
 dependencies:
   flutter_simple_console:
-    git: https://github.com/yourusername/flutter_simple_console.git
+    git: https://github.com/chdo002/flutter_simple_console.git
 ```
 
 ## Usage
